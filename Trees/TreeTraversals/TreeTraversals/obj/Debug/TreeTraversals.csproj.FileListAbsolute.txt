@@ -1,0 +1,6 @@
+C:\work\Examples\Trees\TreeTraversals\TreeTraversals\bin\Debug\TreeTraversals.exe.config
+C:\work\Examples\Trees\TreeTraversals\TreeTraversals\obj\Debug\TreeTraversals.csprojResolveAssemblyReference.cache
+C:\work\Examples\Trees\TreeTraversals\TreeTraversals\bin\Debug\TreeTraversals.exe
+C:\work\Examples\Trees\TreeTraversals\TreeTraversals\bin\Debug\TreeTraversals.pdb
+C:\work\Examples\Trees\TreeTraversals\TreeTraversals\obj\Debug\TreeTraversals.exe
+C:\work\Examples\Trees\TreeTraversals\TreeTraversals\obj\Debug\TreeTraversals.pdb
